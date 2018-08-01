@@ -15,4 +15,8 @@ on a.id = b.uid
 最后的结果会是按照update_time desc排序的吗？
 不一定
 
+init sql
+
+
+参考文献：
 https://blog.csdn.net/xiaohelong2005/article/details/50574845
